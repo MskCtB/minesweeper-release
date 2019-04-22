@@ -1,5 +1,5 @@
 # minesweeper-release
 
-Left Mouse Button - uncover a cube
-Right Mouse Button - flag a cube
+Left Mouse Button - uncover a square
+Right Mouse Button - flag a square
 Esc - Exit
